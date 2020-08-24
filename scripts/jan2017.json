@@ -1,0 +1,602 @@
+[
+	{
+		"1": {
+			"q": "The principal of a school conducts an interview session of teachers and students with a  view to explore the possibility of their enhanced participation in school programmes. This  endeavour may be related to which type of research ?",
+			"answers": {
+				"1": "Evaluation Research",
+				"2": "Fundamental Research",
+				"3": "Action Research",
+				"4": "Applied Research",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"2": {
+			"q": "In doing action research what is the usual sequence of steps ?",
+			"answers": {
+				"1": "Reflect, observe, plan, act",
+				"2": "Plan, act, observe, reflect",
+				"3": "Plan, reflect, observe, act",
+				"4": "Act, observe, plan, reflect",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"3": {
+			"q": "Which sequence of research steps is logical in the list given below ?",
+			"answers": {
+				"1": "Problem formulation, Analysis, Development of Research design, Hypothesis  making, Collection of data, Arriving at generalizations and conclusions.",
+				"2": "Development of Research design, Hypothesis making, Problem formulation, Data  analysis, Arriving at conclusions and data collection.",
+				"3": "Problem formulation, Hypothesis making, Development of a Research design,  Collection of data, Data analysis and formulation of generalizations and conclusions.",
+				"4": "Problem formulation, Deciding about the sample and data collection tools,  Formulation of hypothesis, Collection and interpretation of research evidence.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"4": {
+			"q": "Match the items of the first set with that of the second set in respect of evaluation system. Choose the correct code :      set1  set 2   (Research Methods)  (Data Collection Tools)    a. Experimental method i. Using primary and secondary sources   b. Ex post-facto method ii. Questionnaire   c. Descriptive survey method iii. Standardized tests   d. Historical method iv. Typical characteristic tests",
+			"answers": {
+				"1": "  a  b   c   d   iv  iii    i    ii",
+				"2": "  a  b   c   d   iii  iv    ii    i",
+				"3": "  a  b   c   d   ii  iii    i    iv",
+				"4": "  a  b   c   d   ii  iv    iii    i",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"5": {
+			"q": "The issue of ‘research ethics’ may be considered pertinent at which stage of research ?",
+			"answers": {
+				"1": "At the stage of problem formulation and its definition",
+				"2": "At the stage of defining the population of research",
+				"3": "At the stage of data collection and interpretation",
+				"4": "At the stage of reporting the findings.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"6": {
+			"q": "In which of the following, reporting format is formally prescribed ?",
+			"answers": {
+				"1": "Doctoral level thesis",
+				"2": "Conference of researchers",
+				"3": "Workshops and seminars",
+				"4": "Symposia",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"7": {
+			"q": "Read the following passage carefully and answer questions from 7 to 12 :   The last great war, which nearly shook the foundations of the modern world, had little  impact on Indian literature beyond aggravating the popular revulsion against violence and  adding to the growing disillusionment with the ‘humane pretensions’ of the Western World.  This was eloquently voiced in Tagore’s later poems and his last testament, Crisis in Civilisation.  The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help  sympathising with England’s dogged courage in the hour of peril, with the Russians fighting  with their backs to the wall against the ruthless Nazi hordes, and with China groaning under the  heel of Japanese militarism; on the other hand, their own country was practically under military  occupation of their own soil, and an Indian army under Subhas Bose was trying from the  opposite camp to liberate their country. No creative impulse could issue from such confusion of  loyalties. One would imagine that the achievement of Indian independence in 1947, which came  in the wake of the Allies’ victory and was followed by the collapse of colonialism in the  neighbouring countries of South-East Asia, would have released an upsurge of creative energy.  No doubt it did, but unfortunately it was soon submerged in the great agony of partition, with its  inhuman slaughter of the innocents and the uprooting of millions of people from their homeland,  followed by the martyrdom of Mahatma Gandhi. These tragedies, along with Pakistan’s  invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a poignant  writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri,  Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great  literature. What reserves of enthusiasm and confidence survived these disasters have been  mainly absorbed in the task of national reconstruction and economic development. Great  literature has always emerged out of chains of convulsions. Indian literature is richer today in  volume, range and variety than it ever was in the past.  Based on the passage answer the following questions from 7 to 12 :     What was the impact of the last great war on Indian literature ?",
+			"answers": {
+				"1": "It had no impact.",
+				"2": "It aggravated popular revulsion against violence.",
+				"3": "It shook the foundations of literature.",
+				"4": "It offered eloquent support to the Western World.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"8": {
+			"q": "Read the following passage carefully and answer questions from 7 to 12 :   The last great war, which nearly shook the foundations of the modern world, had little  impact on Indian literature beyond aggravating the popular revulsion against violence and  adding to the growing disillusionment with the ‘humane pretensions’ of the Western World.  This was eloquently voiced in Tagore’s later poems and his last testament, Crisis in Civilisation.  The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help  sympathising with England’s dogged courage in the hour of peril, with the Russians fighting  with their backs to the wall against the ruthless Nazi hordes, and with China groaning under the  heel of Japanese militarism; on the other hand, their own country was practically under military  occupation of their own soil, and an Indian army under Subhas Bose was trying from the  opposite camp to liberate their country. No creative impulse could issue from such confusion of  loyalties. One would imagine that the achievement of Indian independence in 1947, which came  in the wake of the Allies’ victory and was followed by the collapse of colonialism in the  neighbouring countries of South-East Asia, would have released an upsurge of creative energy.  No doubt it did, but unfortunately it was soon submerged in the great agony of partition, with its  inhuman slaughter of the innocents and the uprooting of millions of people from their homeland,  followed by the martyrdom of Mahatma Gandhi. These tragedies, along with Pakistan’s  invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a poignant  writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri,  Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great  literature. What reserves of enthusiasm and confidence survived these disasters have been  mainly absorbed in the task of national reconstruction and economic development. Great  literature has always emerged out of chains of convulsions. Indian literature is richer today in  volume, range and variety than it ever was in the past.  Based on the passage answer the following questions from 7 to 12 :   What did Tagore articulate in his last testament ?",
+			"answers": {
+				"1": "Offered support to Subhas Bose.",
+				"2": "Exposed the humane pretensions of the Western World.",
+				"3": "Expressed loyalty to England.",
+				"4": "Encouraged the liberation of countries.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"9": {
+			"q": "Read the following passage carefully and answer questions from 7 to 12 :   The last great war, which nearly shook the foundations of the modern world, had little  impact on Indian literature beyond aggravating the popular revulsion against violence and  adding to the growing disillusionment with the ‘humane pretensions’ of the Western World.  This was eloquently voiced in Tagore’s later poems and his last testament, Crisis in Civilisation.  The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help  sympathising with England’s dogged courage in the hour of peril, with the Russians fighting  with their backs to the wall against the ruthless Nazi hordes, and with China groaning under the  heel of Japanese militarism; on the other hand, their own country was practically under military  occupation of their own soil, and an Indian army under Subhas Bose was trying from the  opposite camp to liberate their country. No creative impulse could issue from such confusion of  loyalties. One would imagine that the achievement of Indian independence in 1947, which came  in the wake of the Allies’ victory and was followed by the collapse of colonialism in the  neighbouring countries of South-East Asia, would have released an upsurge of creative energy.  No doubt it did, but unfortunately it was soon submerged in the great agony of partition, with its  inhuman slaughter of the innocents and the uprooting of millions of people from their homeland,  followed by the martyrdom of Mahatma Gandhi. These tragedies, along with Pakistan’s  invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a poignant  writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri,  Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great  literature. What reserves of enthusiasm and confidence survived these disasters have been  mainly absorbed in the task of national reconstruction and economic development. Great  literature has always emerged out of chains of convulsions. Indian literature is richer today in  volume, range and variety than it ever was in the past.  Based on the passage answer the following questions from 7 to 12 :  What was the stance of Indian intelligentsia during the period of great war ?",
+			"answers": {
+				"1": "Indifference to Russia’s plight.",
+				"2": "They favoured Japanese militarism.",
+				"3": "They prompted creativity out of confused loyalties.",
+				"4": "They expressed sympathy for England’s dogged courage.",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"10": {
+			"q": "Read the following passage carefully and answer questions from 7 to 12 :   The last great war, which nearly shook the foundations of the modern world, had little  impact on Indian literature beyond aggravating the popular revulsion against violence and  adding to the growing disillusionment with the ‘humane pretensions’ of the Western World.  This was eloquently voiced in Tagore’s later poems and his last testament, Crisis in Civilisation.  The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help  sympathising with England’s dogged courage in the hour of peril, with the Russians fighting  with their backs to the wall against the ruthless Nazi hordes, and with China groaning under the  heel of Japanese militarism; on the other hand, their own country was practically under military  occupation of their own soil, and an Indian army under Subhas Bose was trying from the  opposite camp to liberate their country. No creative impulse could issue from such confusion of  loyalties. One would imagine that the achievement of Indian independence in 1947, which came  in the wake of the Allies’ victory and was followed by the collapse of colonialism in the  neighbouring countries of South-East Asia, would have released an upsurge of creative energy.  No doubt it did, but unfortunately it was soon submerged in the great agony of partition, with its  inhuman slaughter of the innocents and the uprooting of millions of people from their homeland,  followed by the martyrdom of Mahatma Gandhi. These tragedies, along with Pakistan’s  invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a poignant  writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri,  Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great  literature. What reserves of enthusiasm and confidence survived these disasters have been  mainly absorbed in the task of national reconstruction and economic development. Great  literature has always emerged out of chains of convulsions. Indian literature is richer today in  volume, range and variety than it ever was in the past.  Based on the passage answer the following questions from 7 to 12 :    Identify the factor responsible for the submergence of creative energy in Indian literature.",
+			"answers": {
+				"1": "Military occupation of one’s own soil.",
+				"2": "Resistance to colonial occupation.",
+				"3": "Great agony of partition.",
+				"4": "Victory of Allies.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"11": {
+			"q": "Read the following passage carefully and answer questions from 7 to 12 :   The last great war, which nearly shook the foundations of the modern world, had little  impact on Indian literature beyond aggravating the popular revulsion against violence and  adding to the growing disillusionment with the ‘humane pretensions’ of the Western World.  This was eloquently voiced in Tagore’s later poems and his last testament, Crisis in Civilisation.  The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help  sympathising with England’s dogged courage in the hour of peril, with the Russians fighting  with their backs to the wall against the ruthless Nazi hordes, and with China groaning under the  heel of Japanese militarism; on the other hand, their own country was practically under military  occupation of their own soil, and an Indian army under Subhas Bose was trying from the  opposite camp to liberate their country. No creative impulse could issue from such confusion of  loyalties. One would imagine that the achievement of Indian independence in 1947, which came  in the wake of the Allies’ victory and was followed by the collapse of colonialism in the  neighbouring countries of South-East Asia, would have released an upsurge of creative energy.  No doubt it did, but unfortunately it was soon submerged in the great agony of partition, with its  inhuman slaughter of the innocents and the uprooting of millions of people from their homeland,  followed by the martyrdom of Mahatma Gandhi. These tragedies, along with Pakistan’s  invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a poignant  writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri,  Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great  literature. What reserves of enthusiasm and confidence survived these disasters have been  mainly absorbed in the task of national reconstruction and economic development. Great  literature has always emerged out of chains of convulsions. Indian literature is richer today in  volume, range and variety than it ever was in the past.  Based on the passage answer the following questions from 7 to 12 :  What was the aftermath that survived tragedies in Kashmir and Bangladesh ?",
+			"answers": {
+				"1": "Suspicion of other countries",
+				"2": "Continuance of rivalry",
+				"3": "Menace of war",
+				"4": "National reconstruction",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"12": {
+			"q": "Read the following passage carefully and answer questions from 7 to 12 :   The last great war, which nearly shook the foundations of the modern world, had little  impact on Indian literature beyond aggravating the popular revulsion against violence and  adding to the growing disillusionment with the ‘humane pretensions’ of the Western World.  This was eloquently voiced in Tagore’s later poems and his last testament, Crisis in Civilisation.  The Indian intelligentsia was in a state of moral dilemma. On the one hand, it could not help  sympathising with England’s dogged courage in the hour of peril, with the Russians fighting  with their backs to the wall against the ruthless Nazi hordes, and with China groaning under the  heel of Japanese militarism; on the other hand, their own country was practically under military  occupation of their own soil, and an Indian army under Subhas Bose was trying from the  opposite camp to liberate their country. No creative impulse could issue from such confusion of  loyalties. One would imagine that the achievement of Indian independence in 1947, which came  in the wake of the Allies’ victory and was followed by the collapse of colonialism in the  neighbouring countries of South-East Asia, would have released an upsurge of creative energy.  No doubt it did, but unfortunately it was soon submerged in the great agony of partition, with its  inhuman slaughter of the innocents and the uprooting of millions of people from their homeland,  followed by the martyrdom of Mahatma Gandhi. These tragedies, along with Pakistan’s  invasion of Kashmir and its later atrocities in Bangladesh, did indeed provoke a poignant  writing, particularly in the languages of the regions most affected, Bengali, Hindi, Kashmiri,  Punjabi, Sindhi and Urdu. But poignant or passionate writing does not by itself make great  literature. What reserves of enthusiasm and confidence survived these disasters have been  mainly absorbed in the task of national reconstruction and economic development. Great  literature has always emerged out of chains of convulsions. Indian literature is richer today in  volume, range and variety than it ever was in the past.  Based on the passage answer the following questions from 7 to 12 :  The passage has the message that",
+			"answers": {
+				"1": "Disasters are inevitable.",
+				"2": "Great literature emerges out of chains of convulsions.",
+				"3": "Indian literature does not have a marked landscape.",
+				"4": "Literature has no relation with war and independence.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"13": {
+			"q": "Effective communication pre-supposes",
+			"answers": {
+				"1": "Non-alignment",
+				"2": "Domination",
+				"3": "Passivity",
+				"4": "Understanding",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"14": {
+			"q": "When verbal and non-verbal messages are contradictory, it is said that most people believe  in",
+			"answers": {
+				"1": "indeterminate messages",
+				"2": "verbal messages",
+				"3": "non-verbal messages",
+				"4": "aggressive messages",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"15": {
+			"q": "The typical feature of an information-rich classroom lecture is in the nature of being",
+			"answers": {
+				"1": "Sedentary",
+				"2": "Staggered",
+				"3": "Factual",
+				"4": "Sectoral",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"16": {
+			"q": "Expressive communication is driven by",
+			"answers": {
+				"1": "Passive aggression",
+				"2": "Encoder’s personality characteristics",
+				"3": "External clues",
+				"4": "Encoder-decoder contract",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"17": {
+			"q": "Positive classroom communication leads to",
+			"answers": {
+				"1": "Coercion",
+				"2": "Submission",
+				"3": "Confrontation",
+				"4": "Persuasion",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"18": {
+			"q": "Classroom communication is the basis of",
+			"answers": {
+				"1": "Social identity",
+				"2": "External inanities",
+				"3": "Biased passivity",
+				"4": "Group aggression",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"19": {
+			"q": "The missing term in the series 1, 4, 27, 16, ?, 36, 343, … is",
+			"answers": {
+				"1": "30",
+				"2": "49",
+				"3": "125",
+				"4": "81",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"20": {
+			"q": "The next term in the following series  YEB, WFD, UHG, SKI, ? will be",
+			"answers": {
+				"1": "TLO",
+				"2": "QOL",
+				"3": "QLO",
+				"4": "GQP",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"21": {
+			"q": "If A is coded as C, M as I, N as P, S as O, I as A, P as N, E as M, O as E and C as S, then  the code of COMPANIES will be",
+			"answers": {
+				"1": "SPEINMOAC",
+				"2": "NCPSEIOMA",
+				"3": "SMOPIEACN",
+				"4": "SEINCPAMO",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"22": {
+			"q": "Among the following, identify the continuous type of data :",
+			"answers": {
+				"1": "Number of languages a person speaks",
+				"2": "Number of children in a household",
+				"3": "Population of cities",
+				"4": "Weight of students in a class",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"23": {
+			"q": "Ali buys a glass, a pencil box and a cup and pays rs 21 to the shopkeeper. Rakesh buys a  cup, two pencil boxes and a glass and pays rs 28 to the shopkeeper. Preeti buys two  glasses, a cup and two pencil boxes and pays rs 35 to the shopkeeper. The cost of 10 cups  will be",
+			"answers": {
+				"1": "` 40",
+				"2": "` 60",
+				"3": "` 80",
+				"4": "` 70",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"24": {
+			"q": "Out of four cities given below three are alike in some manner while the fourth one is  different. Identify the odd one",
+			"answers": {
+				"1": "Lucknow",
+				"2": "Rishikesh",
+				"3": "Allahabad",
+				"4": "Patna",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"25": {
+			"q": "Given below are some characteristics of reasoning. Select the code that states a  characteristic which is not of deductive reasoning :",
+			"answers": {
+				"1": "The conclusion must be based on observation and experiment.",
+				"2": "The conclusion should be supported by the premise/premises.",
+				"3": "The conclusion must follow from the premise/premises necessarily.",
+				"4": "The argument may be valid or invalid.",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"26": {
+			"q": "If two standard form categorical propositions with the same subject and predicate are  related in such a manner that if one is undetermined the other must be undetermined, what  is their relation ?",
+			"answers": {
+				"1": "Contrary",
+				"2": "Subcontrary",
+				"3": "Contradictory",
+				"4": "Sub-altern",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"27": {
+			"q": "Men and woman may have different reproductive strategies but neither can be considered  inferior or superior to the other, any more than a bird’s wings can be considered superior  or inferior to a fish’s fins. What type of argument it is ?",
+			"answers": {
+				"1": "Biological",
+				"2": "Physiological",
+				"3": "Analogical",
+				"4": "Hypothetical",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"28": {
+			"q": "Among the following propositions two are related in such a way that they cannot both be  true but can both be false. Select the code that states those two propositions.  Propositions :  (a) Every student is attentive.  (b) Some students are attentive.  (c) Students are never attentive.  (d) Some students are not attentive.  Codes :",
+			"answers": {
+				"1": "(a) and (b)",
+				"2": "(a) and (c)",
+				"3": "(b) and (c)",
+				"4": "(c) and (d)",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"29": {
+			"q": "Given below are two premises ((a) and (b)). From those two premises four conclusions (i),  (ii), (iii) & (iv) are drawn. Select the code that states the conclusions validly drawn from  the premises (taking singly or jointly.)  Premises : (a) Untouchability is a curse.   (b) All hot pans are untouchable.   Conclusions : (i) All hot pans are curse.   (ii) Some untouchable things are hot pans.   (iii) All curses are untouchability.   (iv) Some curses are untouchability.    Codes :",
+			"answers": {
+				"1": "(i) and (ii)",
+				"2": "(ii) and (iii)",
+				"3": "(iii) and (iv)",
+				"4": "(ii) and (iv)",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"30": {
+			"q": "If the statement ‘None but the brave wins the race’ is false which of the following  statements can be claimed to be true ?  Select the correct code :",
+			"answers": {
+				"1": "All brave persons win the race.",
+				"2": "Some persons who win the race are not brave.",
+				"3": "Some persons who win the race are brave.",
+				"4": "No person who wins the race is brave.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"31": {
+			"q": "In 2015, approximately what percent   of total revenue came from books ?",
+			"answers": {
+				"1": "45%",
+				"2": "55%",
+				"3": "35%",
+				"4": "25%",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"32": {
+			"q": "The number of years in which there   was an increase in revenue from at least two  categories of items, is",
+			"answers": {
+				"1": "0",
+				"2": "1",
+				"3": "2",
+				"4": "3",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"33": {
+			"q": "If the year 2016 were to show the same growth   in terms of total sales revenue as the year  2015 over the year 2014, then the revenue in   the year 2016 must be approximately :",
+			"answers": {
+				"1": "` 194 lakh",
+				"2": "` 187 lakh",
+				"3": "` 172 lakh",
+				"4": "` 177 lakh",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"34": {
+			"q": "How many female students are excellent ?",
+			"answers": {
+				"1": "0",
+				"2": "8",
+				"3": "16",
+				"4": "32",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"35": {
+			"q": "What proportion of female students are good ?",
+			"answers": {
+				"1": "0",
+				"2": "0.25",
+				"3": "0.50",
+				"4": "0.75",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"36": {
+			"q": "Approximately, what proportion of good students are male ?",
+			"answers": {
+				"1": "0",
+				"2": "0.73",
+				"3": "0.43",
+				"4": "0.27",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"37": {
+			"q": "Which of the following statement(s) is/are TRUE ?  S1 : The decimal number 11 is larger than the hexadecimal number 11.  S2 : In the binary number 1110.101, the fractional part has the decimal value as 0.625.",
+			"answers": {
+				"1": "S1 only",
+				"2": "S2 only",
+				"3": "Both S1 and S2",
+				"4": "Neither S1 nor S2",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"38": {
+			"q": "Read the following two statements :  I : Information and Communication Technology (ICT) is considered a subset of  Information Technology (IT).  II : The ‘right to use’ a piece of software is termed as copyright.  Which of the above statement(s) is/are CORRECT ?",
+			"answers": {
+				"1": "Both I and II",
+				"2": "Neither I nor II",
+				"3": "II only",
+				"4": "I only",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"39": {
+			"q": "Which of the following correctly lists computer memory types from highest to lowest  speed ?",
+			"answers": {
+				"1": "Secondary Storage; Main Memory (RAM); Cache Memory; CPU Registers",
+				"2": "CPU Registers; Cache Memory; Secondary Storage; Main Memory (RAM)",
+				"3": "CPU Registers; Cache Memory; Main Memory (RAM); Secondary Storage",
+				"4": "Cache Memory; CPU Registers; Main Memory (RAM); Secondary Storage",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"40": {
+			"q": "Which of the following is a characteristic of Web2.0 applications ?",
+			"answers": {
+				"1": "Multiple users schedule their time to use Web2.0 applications one by one.",
+				"2": "Web2.0 applications are focused on the ability for people to collaborate and share  information online.",
+				"3": "Web2.0 applications provide users with content rather than facilitating users to  create it.",
+				"4": "Web2.0 applications use only static pages.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"41": {
+			"q": "With regard to a word processing software, the process of combining static information in  a publication together with variable information in a data source to create one merged  publication is called",
+			"answers": {
+				"1": "Electronic mail",
+				"2": "Data sourcing",
+				"3": "Mail merge",
+				"4": "Spam mail",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"42": {
+			"q": "DVD technology uses an optical media to store the digital data. DVD is an acronym for",
+			"answers": {
+				"1": "Digital Vector Disc",
+				"2": "Digital Volume Disc",
+				"3": "Digital Versatile Disc",
+				"4": "Digital Visualization Disc",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"43": {
+			"q": "Assertion (A) : Sustainable development is critical to well being of human society. Reason (R) : Environmentally sound policies do not harm the environment or deplete  the natural resources.  Choose the correct code :",
+			"answers": {
+				"1": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+				"2": "Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
+				"3": "(A) is true and (R) is false.",
+				"4": "(A) is false and (R) is true.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"44": {
+			"q": "The dominant source of pollution due to oxides of nitrogen (NOX  ) in urban areas is",
+			"answers": {
+				"1": "road transport",
+				"2": "commercial sector",
+				"3": "energy use in industry",
+				"4": "power plants",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"45": {
+			"q": "Which of the following is not a water-borne disease ?",
+			"answers": {
+				"1": "Typhoid",
+				"2": "Hepatitis",
+				"3": "Cholera",
+				"4": "Dengue",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"46": {
+			"q": "Indian government’s target for power production from small hydro projects by the year  2022 is",
+			"answers": {
+				"1": "1 Giga-Watt",
+				"2": "5 Giga-Watt",
+				"3": "10 Giga-Watt",
+				"4": "15 Giga-Watt",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"47": {
+			"q": "In which country, the recent international agreement on phasing out Hydro Fluoro  Carbons (HFCs) was signed ?",
+			"answers": {
+				"1": "Rwanda",
+				"2": "Morocco",
+				"3": "South Africa",
+				"4": "Algeria",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"48": {
+			"q": "Which of the following natural hazards is not hydro-meteorological ?",
+			"answers": {
+				"1": "Snow avalanche",
+				"2": "Sea erosion",
+				"3": "Tropical cyclone",
+				"4": "Tsunami",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"49": {
+			"q": "Which of the following are the demerits of globalisation of higher education ?   (a) Exposure to global curriculum   (b) Promotion of elitism in education   (c) Commodification of higher education   (d) Increase in the cost of education   Select the correct answer from the codes given below :  Codes :",
+			"answers": {
+				"1": "(a) and (d)",
+				"2": "(a), (c) and (d)",
+				"3": "(b), (c) and (d)",
+				"4": "(a), (b), (c) and (d)",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"50": {
+			"q": "Which of the following statements are correct about deemed universities ?   (a) The Governor of the State is the chancellor of deemed universities.   (b) They can design their own syllabus and course work.   (c) They can frame their own guidelines regarding admission and fees.   (d) They can grant degrees.   Select the correct answer from the codes given below :  Codes :",
+			"answers": {
+				"1": "(a), (b) and (c)",
+				"2": "(b), (c) and (d)",
+				"3": "(a), (c) and (d)",
+				"4": "(a), (b), (c) and (d)",
+				"correct": 2
+			}
+		}
+	}
+]

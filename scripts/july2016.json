@@ -1,0 +1,602 @@
+[
+	{
+		"1": {
+			"q": "Select the alternative which consists of positive factors contributing to effectiveness of  teaching :   List of factors :  ---------------------   (a) Teacher’s knowledge of the subject.   (b) Teacher’s socio-economic background.   (c) Communication skill of the teacher.   (d) Teacher’s ability to please the students.   (e) Teacher’s personal contact with students.   (f) Teacher’s competence in managing and monitoring the classroom transactions. Codes :",
+			"answers": {
+				"1": "(b), (c) and (d)",
+				"2": "(c), (d) and (f)",
+				"3": "(b), (d) and (e)",
+				"4": "(a), (c) and (f)",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"2": {
+			"q": "The use of teaching aids is justified on the grounds of",
+			"answers": {
+				"1": "attracting students’ attention in the class room.",
+				"2": "minimising indiscipline problems in the classroom.",
+				"3": "optimising learning outcomes of students.",
+				"4": "effective engagement of students in learning tasks.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"3": {
+			"q": "Assertion (A) : The purpose of higher education is to promote critical and creative  thinking abilities among students.   Reason (R) : These abilities ensure job placements.  Choose the correct answer from the following code :",
+			"answers": {
+				"1": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+				"2": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+				"3": "(A) is true but (R) is false.",
+				"4": "(A) is false but (R) is true.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"4": {
+			"q": "Match the items of the first set with that of the second set in respect of evaluation system. Choose the correct code :      set1  set 2   a. Formative evaluation i. Evaluating cognitive and co-cognitiveaspects with regularity   b. Summative evaluation ii. Tests and their interpretations based on agroup and certain yardsticks   c. Continuous andcomprehensive evaluation iii. Grading the final learning outcomes   d. Norm and criterion referencedtests iv. Quizzes and discussions",
+			"answers": {
+				"1": "  a  b   c   d   iv  iii    i    ii",
+				"2": "  a  b   c   d   i  ii    iii    iv",
+				"3": "  a  b   c   d   iii  iv    ii   i",
+				"4": "  a  b   c   d   i  iii    iv   ii",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"5": {
+			"q": "A researcher intends to explore the effect of possible factors for the organization of  effective mid-day meal interventions. Which research method will be most appropriate for  this study ?",
+			"answers": {
+				"1": "Historical method",
+				"2": "Descriptive survey method",
+				"3": "Experimental method",
+				"4": "Ex-post-facto method",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"6": {
+			"q": "Which of the following is an initial mandatory requirement for pursuing research ?",
+			"answers": {
+				"1": "Developing a research design",
+				"2": "Formulating a research question",
+				"3": "Deciding about the data analysis procedure",
+				"4": "Formulating a research hypothesis",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"7": {
+			"q": "The format of thesis writing is the same as in",
+			"answers": {
+				"1": "preparation of a research paper/article",
+				"2": "writing of seminar presentation",
+				"3": "a research dissertation",
+				"4": "presenting a workshop / conference paper",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"8": {
+			"q": "In qualitative research paradigm, which of the following features may be considered critical ?",
+			"answers": {
+				"1": "Data collection with standardised research tools.",
+				"2": "Sampling design with probability sample techniques.",
+				"3": "Data collection with bottom-up empirical evidences.",
+				"4": "Data gathering to take place with top-down systematic evidences.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"9": {
+			"q": "From the following list of statements identify the set which has negative implications for  ‘research ethics’ :    (i) A researcher critically looks at the findings of another research.   (ii) Related studies are cited without proper references.   (iii) Research findings are made the basis for policy making.   (iv) Conduct of practitioner is screened in terms of reported research evidences.   (v) A research study is replicated with a view to verify the evidences from other  researches.   (vi) Both policy making and policy implementing processes are regulated in terms of  preliminary studies.  Codes :",
+			"answers": {
+				"1": "(i), (ii) and (iii)",
+				"2": "(ii), (iii) and (iv)",
+				"3": "(ii), (iv) and (vi)",
+				"4": "(i), (iii) and (v)",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"10": {
+			"q": "In a research on the effect of child-rearing practices on stress-proneness of children in  completing school projects, the hypothesis formulated is that ‘child rearing practices do  influence stress-proneness’. At the data-analysis stage a null hypothesis is advanced to  find out the tenability of research hypothesis. On the basis of the evidence available, the  null hypothesis is rejected at 0.01 level of significance. What decision may be warranted  in respect of the research hypothesis ?",
+			"answers": {
+				"1": "The research hypothesis will also be rejected.",
+				"2": "The research hypothesis will be accepted.",
+				"3": "Both the research hypothesis and the null hypothesis will be rejected.",
+				"4": "No decision can be taken in respect of the research hypothesis.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"11": {
+			"q": "Read the following passage carefully and answer question numbers from 11 to 16 :    In terms of labour, for decades the relatively low cost and high quality of Japanese workers  conferred considerable competitive advantage across numerous durable goods and consumerelectronics  industries (eg. Machinery, automobiles, televisions, radios). Then labour-based  advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China  appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in  markets for such durable goods, electronics and other products, but the labour force is no longer  sufficient for competitive advantage over manufacturers in other industrializing nations. Such  shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge  number of IT and service jobs are moving from Europe and North America to India, Singapore, and  like countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India,  Singapore, and like nations enjoying labour-based competitive advantage today are likely to find  such advantage cannot be sustained through emergence of new competitors.  In terms of capital, for centuries the days of gold coins and later even paper money restricted  financial flows. Subsequently regional concentrations were formed where large banks, industries  and markets coalesced. But today capital flows internationally at rapid speed. Global commerce no  longer requires regional interactions among business players. Regional capital concentrations in  places such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide.  Only if an organization is able to combine, integrate and apply its resources (eg. Land, labour,  capital, IT) in an effective manner that is not readily imitable by competitors can such an  organization enjoy competitive advantage sustainable overtime.  In a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as  a resource with atleast the same level of power and importance as the traditional economic inputs.  An organization with superior knowledge can achieve competitive advantage in markets that  appreciate the application of such knowledge. Semiconductors, genetic engineering,  pharmaceuticals, software, military warfare, and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (e.g. computer chips),  which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools, and  fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.  Based on the passage answer the following questions :         Which country enjoyed competitive advantages in automobile industry for decades ?",
+			"answers": {
+				"1": "South Korea",
+				"2": "Japan",
+				"3": "Mexico",
+				"4": "Malaysia",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"12": {
+			"q": "Read the following passage carefully and answer question numbers from 11 to 16 :    In terms of labour, for decades the relatively low cost and high quality of Japanese workers  conferred considerable competitive advantage across numerous durable goods and consumerelectronics  industries (eg. Machinery, automobiles, televisions, radios). Then labour-based  advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China  appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in  markets for such durable goods, electronics and other products, but the labour force is no longer  sufficient for competitive advantage over manufacturers in other industrializing nations. Such  shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge  number of IT and service jobs are moving from Europe and North America to India, Singapore, and  like countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India,  Singapore, and like nations enjoying labour-based competitive advantage today are likely to find  such advantage cannot be sustained through emergence of new competitors.  In terms of capital, for centuries the days of gold coins and later even paper money restricted  financial flows. Subsequently regional concentrations were formed where large banks, industries  and markets coalesced. But today capital flows internationally at rapid speed. Global commerce no  longer requires regional interactions among business players. Regional capital concentrations in  places such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide.  Only if an organization is able to combine, integrate and apply its resources (eg. Land, labour,  capital, IT) in an effective manner that is not readily imitable by competitors can such an  organization enjoy competitive advantage sustainable overtime.  In a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as  a resource with atleast the same level of power and importance as the traditional economic inputs.  An organization with superior knowledge can achieve competitive advantage in markets that  appreciate the application of such knowledge. Semiconductors, genetic engineering,  pharmaceuticals, software, military warfare, and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (e.g. computer chips),  which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools, and  fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.  Based on the passage answer the following questions :         Why labour-based competitive advantages of India and Singapore cannot be sustained in IT  and service sectors ?",
+			"answers": {
+				"1": "Due to diminishing levels of skill.",
+				"2": "Due to capital-intensive technology making inroads.",
+				"3": "Because of new competitors.",
+				"4": "Because of shifting of labour-based advantage in manufacturing industries.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"13": {
+			"q": "Read the following passage carefully and answer question numbers from 11 to 16 :    In terms of labour, for decades the relatively low cost and high quality of Japanese workers  conferred considerable competitive advantage across numerous durable goods and consumerelectronics  industries (eg. Machinery, automobiles, televisions, radios). Then labour-based  advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China  appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in  markets for such durable goods, electronics and other products, but the labour force is no longer  sufficient for competitive advantage over manufacturers in other industrializing nations. Such  shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge  number of IT and service jobs are moving from Europe and North America to India, Singapore, and  like countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India,  Singapore, and like nations enjoying labour-based competitive advantage today are likely to find  such advantage cannot be sustained through emergence of new competitors.  In terms of capital, for centuries the days of gold coins and later even paper money restricted  financial flows. Subsequently regional concentrations were formed where large banks, industries  and markets coalesced. But today capital flows internationally at rapid speed. Global commerce no  longer requires regional interactions among business players. Regional capital concentrations in  places such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide.  Only if an organization is able to combine, integrate and apply its resources (eg. Land, labour,  capital, IT) in an effective manner that is not readily imitable by competitors can such an  organization enjoy competitive advantage sustainable overtime.  In a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as  a resource with atleast the same level of power and importance as the traditional economic inputs.  An organization with superior knowledge can achieve competitive advantage in markets that  appreciate the application of such knowledge. Semiconductors, genetic engineering,  pharmaceuticals, software, military warfare, and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (e.g. computer chips),  which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools, and  fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.  Based on the passage answer the following questions :          How can an organisation enjoy competitive advantage sustainable overtime ?",
+			"answers": {
+				"1": "Through regional capital flows.",
+				"2": "Through regional interactions among business players.",
+				"3": "By making large banks, industries and markets coalesced.",
+				"4": "By effective use of various instrumentalities.",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"14": {
+			"q": "Read the following passage carefully and answer question numbers from 11 to 16 :    In terms of labour, for decades the relatively low cost and high quality of Japanese workers  conferred considerable competitive advantage across numerous durable goods and consumerelectronics  industries (eg. Machinery, automobiles, televisions, radios). Then labour-based  advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China  appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in  markets for such durable goods, electronics and other products, but the labour force is no longer  sufficient for competitive advantage over manufacturers in other industrializing nations. Such  shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge  number of IT and service jobs are moving from Europe and North America to India, Singapore, and  like countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India,  Singapore, and like nations enjoying labour-based competitive advantage today are likely to find  such advantage cannot be sustained through emergence of new competitors.  In terms of capital, for centuries the days of gold coins and later even paper money restricted  financial flows. Subsequently regional concentrations were formed where large banks, industries  and markets coalesced. But today capital flows internationally at rapid speed. Global commerce no  longer requires regional interactions among business players. Regional capital concentrations in  places such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide.  Only if an organization is able to combine, integrate and apply its resources (eg. Land, labour,  capital, IT) in an effective manner that is not readily imitable by competitors can such an  organization enjoy competitive advantage sustainable overtime.  In a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as  a resource with atleast the same level of power and importance as the traditional economic inputs.  An organization with superior knowledge can achieve competitive advantage in markets that  appreciate the application of such knowledge. Semiconductors, genetic engineering,  pharmaceuticals, software, military warfare, and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (e.g. computer chips),  which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools, and  fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.  Based on the passage answer the following questions :           What is required to ensure competitive advantages in specific markets ?",
+			"answers": {
+				"1": "Access to capital",
+				"2": "Common office buildings",
+				"3": "Superior knowledge",
+				"4": "Common metals",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"15": {
+			"q": "Read the following passage carefully and answer question numbers from 11 to 16 :    In terms of labour, for decades the relatively low cost and high quality of Japanese workers  conferred considerable competitive advantage across numerous durable goods and consumerelectronics  industries (eg. Machinery, automobiles, televisions, radios). Then labour-based  advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China  appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in  markets for such durable goods, electronics and other products, but the labour force is no longer  sufficient for competitive advantage over manufacturers in other industrializing nations. Such  shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge  number of IT and service jobs are moving from Europe and North America to India, Singapore, and  like countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India,  Singapore, and like nations enjoying labour-based competitive advantage today are likely to find  such advantage cannot be sustained through emergence of new competitors.  In terms of capital, for centuries the days of gold coins and later even paper money restricted  financial flows. Subsequently regional concentrations were formed where large banks, industries  and markets coalesced. But today capital flows internationally at rapid speed. Global commerce no  longer requires regional interactions among business players. Regional capital concentrations in  places such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide.  Only if an organization is able to combine, integrate and apply its resources (eg. Land, labour,  capital, IT) in an effective manner that is not readily imitable by competitors can such an  organization enjoy competitive advantage sustainable overtime.  In a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as  a resource with atleast the same level of power and importance as the traditional economic inputs.  An organization with superior knowledge can achieve competitive advantage in markets that  appreciate the application of such knowledge. Semiconductors, genetic engineering,  pharmaceuticals, software, military warfare, and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (e.g. computer chips),  which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools, and  fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.  Based on the passage answer the following questions :          The passage also mentions about the trend of",
+			"answers": {
+				"1": "Global financial flow",
+				"2": "Absence of competition in manufacturing industry",
+				"3": "Regionalisation of capitalists",
+				"4": "Organizational incompatibility",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"16": {
+			"q": "Read the following passage carefully and answer question numbers from 11 to 16 :    In terms of labour, for decades the relatively low cost and high quality of Japanese workers  conferred considerable competitive advantage across numerous durable goods and consumerelectronics  industries (eg. Machinery, automobiles, televisions, radios). Then labour-based  advantages shifted to South Korea, then to Malaysia, Mexico and other nations. Today, China  appears to be capitalizing best on the basis of labour. Japanese firms still remain competitive in  markets for such durable goods, electronics and other products, but the labour force is no longer  sufficient for competitive advantage over manufacturers in other industrializing nations. Such  shifting of labour-based advantage is clearly not limited to manufacturing industries. Today, a huge  number of IT and service jobs are moving from Europe and North America to India, Singapore, and  like countries with relatively well-educated, low-cost workforces possessing technical skills. However, as educational levels and technical skills continue to rise in other countries, India,  Singapore, and like nations enjoying labour-based competitive advantage today are likely to find  such advantage cannot be sustained through emergence of new competitors.  In terms of capital, for centuries the days of gold coins and later even paper money restricted  financial flows. Subsequently regional concentrations were formed where large banks, industries  and markets coalesced. But today capital flows internationally at rapid speed. Global commerce no  longer requires regional interactions among business players. Regional capital concentrations in  places such as New York, London and Tokyo still persist, of course, but the capital concentrated there is no longer sufficient for competitive advantage over other capitalists distributed worldwide.  Only if an organization is able to combine, integrate and apply its resources (eg. Land, labour,  capital, IT) in an effective manner that is not readily imitable by competitors can such an  organization enjoy competitive advantage sustainable overtime.  In a knowledge-based theory of the firm, this idea is extended to view organizational knowledge as  a resource with atleast the same level of power and importance as the traditional economic inputs.  An organization with superior knowledge can achieve competitive advantage in markets that  appreciate the application of such knowledge. Semiconductors, genetic engineering,  pharmaceuticals, software, military warfare, and like knowledge-intensive competitive arenas provide both time-proven and current examples. Consider semiconductors (e.g. computer chips),  which are made principally of sand and common metals. These ubiquitous and powerful electronic devices are designed within common office buildings, using commercially available tools, and  fabricated within factories in many industrialized nations. Hence, land is not the key competitive resource in the semiconductor industry.  Based on the passage answer the following questions :          What does the author lay stress on in the passage ?",
+			"answers": {
+				"1": "International commerce",
+				"2": "Labour-Intensive industries",
+				"3": "Capital resource management",
+				"4": "Knowledge-driven competitive advantage",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"17": {
+			"q": "Imagine you are working in an educational institution where people are of equal status.  Which method of communication is best suited and normally employed in such a context ?",
+			"answers": {
+				"1": "Horizontal communication",
+				"2": "Vertical communication",
+				"3": "Corporate communication",
+				"4": "Cross communication",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"18": {
+			"q": "Identify the important element a teacher has to take cognizance of while addressing  students in a classroom.",
+			"answers": {
+				"1": "Avoidance of proximity",
+				"2": "Voice modulation",
+				"3": "Repetitive pause",
+				"4": "Fixed posture",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"19": {
+			"q": "What are the barriers to effective communication ?",
+			"answers": {
+				"1": "Moralising, being judgemental and comments of consolation.",
+				"2": "Dialogue, summary and self-review.",
+				"3": "Use of simple words, cool reaction and defensive attitude.",
+				"4": "Personal statements, eye contact and simple narration.",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"20": {
+			"q": "The choice of communication partners is influenced by factors of",
+			"answers": {
+				"1": "Proximity, utility, loneliness",
+				"2": "Utility, secrecy, dissonance",
+				"3": "Secrecy, dissonance, deception",
+				"4": "Dissimilarity, dissonance, deviance",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"21": {
+			"q": "As a teacher, select the best option to ensure your effective presence in the classroom.",
+			"answers": {
+				"1": "Use of peer command",
+				"2": "Making aggressive statements",
+				"3": "Adoption of well-established posture",
+				"4": "Being authoritarian",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"22": {
+			"q": "Every communicator has to experience",
+			"answers": {
+				"1": "Manipulated emotions",
+				"2": "Anticipatory excitement",
+				"3": "The issue of homophiles",
+				"4": "Status dislocation",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"23": {
+			"q": "In certain code, SELECTION is coded as QCJCARGML. The code of AMERICANS will  be",
+			"answers": {
+				"1": "YKCPGAYLQ",
+				"2": "BNFSJDBMR",
+				"3": "QLYAGPCKY",
+				"4": "YQKLCYPAG",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"24": {
+			"q": "In the series   3, 11, 23, 39, 59, ..........   The next term will be",
+			"answers": {
+				"1": "63",
+				"2": "73",
+				"3": "83",
+				"4": "93",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"25": {
+			"q": "Two railway tickets from city A to B and three tickets from city A to C cost  ₹ 177. Three  tickets from city A to B and two tickets from city A to C cost  ₹ 173. The fare for city B  from city A will be `",
+			"answers": {
+				"1": "25",
+				"2": "27",
+				"3": "30",
+				"4": "33",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"26": {
+			"q": "A person walks 10 m infront and 10 m to the right. Then every time turning to his left, he  walks 5, 15 and 15 m respectively. How far is he now from his starting point ?",
+			"answers": {
+				"1": "20 m",
+				"2": "15 m",
+				"3": "10 m",
+				"4": "5 m",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"27": {
+			"q": "A is sister of B. F is daughter of G. C is mother of B. D is father of C. E is mother of D. A  is related to D as",
+			"answers": {
+				"1": "Grand daughter",
+				"2": "Daughter",
+				"3": "Daughter-in-law",
+				"4": "Sister",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"28": {
+			"q": "In the series   AB, EDC, FGHI, ....?...., OPQRST, the missing term is",
+			"answers": {
+				"1": "JKLMN",
+				"2": "JMKNL",
+				"3": "NMLKJ",
+				"4": "NMKLJ",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"29": {
+			"q": "Among the following propositions two are related in such a way that one is the denial of  the other. Which are those propositions ? Select the correct code :    Propositions :   (a) All women are equal to men   (b) Some women are equal to men   (c) Some women are not equal to men   (d) No women are equal to men  Codes :",
+			"answers": {
+				"1": "(a) and (b)",
+				"2": "(a) and (d)",
+				"3": "(c) and (d)",
+				"4": "(a) and (c)",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"30": {
+			"q": "If the proposition ‘All thieves are poor’ is false, which of the following propositions can  be claimed certainly to be true ?   Propositions :",
+			"answers": {
+				"1": "Some thieves are poor.",
+				"2": "Some thieves are not poor.",
+				"3": "No thief is poor.",
+				"4": "No poor person is a thief.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"31": {
+			"q": "Consider the following statement and select the correct code stating the nature of the  argument involved in it :   To suppose that the earth is the only populated world in the infinite space is as absurd as  to assert that in an entire field of millet only one grain will grow.",
+			"answers": {
+				"1": "Astronomical",
+				"2": "Anthropological",
+				"3": "Deductive",
+				"4": "Analogical",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"32": {
+			"q": "Select the code which is not correct about Venn diagram :",
+			"answers": {
+				"1": "Venn diagram represents propositions as well as classes.",
+				"2": "It can provide clear method of notation.",
+				"3": "It can be either valid or invalid.",
+				"4": "It can provide the direct method of testing the validity.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"33": {
+			"q": "Select the code which is not correct in the context of deductive argument with two  premises :",
+			"answers": {
+				"1": "An argument with one true premise, one false premise and a false conclusion may be  valid.",
+				"2": "An argument with two true premises and a false conclusion may be valid.",
+				"3": "An argument with one true premise, one false premise and a true conclusion may be  valid.",
+				"4": "An argument with two false premises and a false conclusion may be valid.",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"34": {
+			"q": "Given below are two premises and four conclusions are drawn from them (taking singly or   together). Select the code that states the conclusions validly drawn.  Premises : (i) All religious persons are emotional.   (ii) Ram is a religious person.  Conclusions : (a) Ram is emotional.   (b) All emotional persons are religious.   (c) Ram is not a non-religious person.   (d) Some religious persons are not emotional.  Codes :",
+			"answers": {
+				"1": "(a), (b), (c) and (d)",
+				"2": "(a) only",
+				"3": "(a) and (c) only",
+				"4": "(b) and (c) only",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"35": {
+			"q": "If the total expenditure of the two companies was   rs 9 lakh in the year 2012 and the  expenditure of A and B were in the ratio 2 : 1,   then what was the income of the company  A in that year ?",
+			"answers": {
+				"1": "rs 9.2 lakh",
+				"2": "rs 8.1 lakh",
+				"3": "rs 7.2 lakh",
+				"4": "rs 6.0 lakh",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"36": {
+			"q": "What is the average percentage profit earned by the company B ?",
+			"answers": {
+				"1": "35%",
+				"2": "42%",
+				"3": "38%",
+				"4": "40%",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"37": {
+			"q": "In which year, the percentage profit earned by the company B is less than that of company  A ?",
+			"answers": {
+				"1": "2012",
+				"2": "2013",
+				"3": "2014",
+				"4": "2015",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"38": {
+			"q": "Approximately what percentage of the   total sample were aged 21-30 ?",
+			"answers": {
+				"1": "31%",
+				"2": "23%",
+				"3": "25%",
+				"4": "14%",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"39": {
+			"q": "Approximately what percentage of the   total sample indicates that Hip-Hop is their  favourite style of music ?",
+			"answers": {
+				"1": "6%",
+				"2": "8%",
+				"3": "14%",
+				"4": "12%",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"40": {
+			"q": "What percentage of respondents aged 31+   indicated a favourite style other than classical  music ?",
+			"answers": {
+				"1": "64%",
+				"2": "60%",
+				"3": "75%",
+				"4": "50%",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"41": {
+			"q": "The statement “the study, design, development, implementation, support or management  of computer-based information systems, particularly software applications and computer  Hardware” refers to",
+			"answers": {
+				"1": "Information Technology (IT)",
+				"2": "Information and Collaborative Technology (ICT)",
+				"3": "Information and Data Technology (IDT)",
+				"4": "Artificial Intelligence (AI)",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"42": {
+			"q": "If the binary equivalent of the decimal number 48 is 110000, then the binary equivalent of  the decimal number 51 is given by",
+			"answers": {
+				"1": "110011",
+				"2": "110010",
+				"3": "110001",
+				"4": "110100",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"43": {
+			"q": "The process of copying files to a CD-ROM is known as",
+			"answers": {
+				"1": "Burning",
+				"2": "Zipping",
+				"3": "Digitizing",
+				"4": "Ripping",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"44": {
+			"q": "An unsolicited e-mail message sent to many recipients at once is a",
+			"answers": {
+				"1": "Worm",
+				"2": "Virus",
+				"3": "Threat",
+				"4": "Spam",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"45": {
+			"q": "_________ is a type of memory circuitry that holds the computer’s start-up routine.",
+			"answers": {
+				"1": "RIM (Read Initial Memory)",
+				"2": "RAM (Random Access Memory)",
+				"3": "ROM (Read Only Memory)",
+				"4": "Cache Memory",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"46": {
+			"q": "An ASCII is a character-encoding scheme that is employed by personal computers in  order to represent various characters, numbers and control keys that the computer user  selects on the keyboard. ASCII is an acronym for",
+			"answers": {
+				"1": "American Standard Code for Information Interchange",
+				"2": "American Standard Code for Intelligent Information",
+				"3": "American Standard Code for Information Integrity",
+				"4": "American Standard Code for Isolated Information",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"47": {
+			"q": "Identify the air pollutant in urban areas which irritates eyes and also respiratory tract of  human beings.",
+			"answers": {
+				"1": "Particulate matter",
+				"2": "Oxides of nitrogen",
+				"3": "Surface ozone",
+				"4": "Carbon monoxide",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"48": {
+			"q": "Which of the following is the largest source of water pollution in major rivers of India ?",
+			"answers": {
+				"1": "Untreated sewage",
+				"2": "Agriculture run-off",
+				"3": "Unregulated small scale industries",
+				"4": "Religious practices",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"49": {
+			"q": "Sustainable development goals have specific targets to be achieved by",
+			"answers": {
+				"1": "2022",
+				"2": "2030",
+				"3": "2040",
+				"4": "2050",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"50": {
+			"q": "Indian government’s target of producing power from biomass by the year 2022, is",
+			"answers": {
+				"1": "50 MW",
+				"2": "25 MW",
+				"3": "15 MW",
+				"4": "10 MW",
+				"correct": 4
+			}
+		}
+	}
+]

@@ -1,0 +1,602 @@
+[
+	{
+		"1": {
+			"q": "1. Which of the following set of statements best represents the nature and objective of teaching  and learning ?  (a) Teaching is like selling and learning is like buying.  (b) Teaching is a social act while learning is a personal act.  (c) Teaching implies learning whereas learning does not imply teaching.  (d) Teaching is a kind of delivery of knowledge while learning is like receiving it.  (e) Teaching is an interaction and is triadic in nature whereas learning is an active  engagement in a subject domain.  Code :",
+			"answers": {
+				"1": "(a), (d) and (e)",
+				"2": "(b), (c) and (e)",
+				"3": "(a), (b) and (c)",
+				"4": "(a), (b) and (d)",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"2": {
+			"q": "2. From the list given below identify the learner characteristics which would facilitate teaching-learning  system to become effective. Choose the correct code to indicate your answer.  (a) Prior experience of learner (b) Learner’s family lineage  (c) Aptitude of the learner (d) Learner’s stage of development  (e) Learner’s food habits and hobbies (f) Learner’s religious affiliation  Code :",
+			"answers": {
+				"1": "(a), (c) and (d)",
+				"2": "(d), (e) and (f)",
+				"3": "(a), (d) and (e)",
+				"4": "(b), (c) and (f)",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"3": {
+			"q": "3. Assertion (A) : All teaching implies learning. Reason (R) : Learning to be useful must be derived from teaching.  Choose the correct answer from the following :",
+			"answers": {
+				"1": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+				"2": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+				"3": "(A) is true, but (R) is false.",
+				"4": "(A) is false, but (R) is true.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"4": {
+			"q": "4. On the basis of summative tests, a teacher is interpreting his/her students, performance in  terms of their wellness life style evident in behaviour. This will be called :",
+			"answers": {
+				"1": "Formative testing",
+				"2": "Continuous and comprehensive evaluation",
+				"3": "Norm - referenced testing",
+				"4": "Criterion - referenced testing",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"5": {
+			"q": "5. Which one of the following is a key behaviour in effective teaching ?",
+			"answers": {
+				"1": "Using student ideas and contribution",
+				"2": "Structuring",
+				"3": "Instructional variety",
+				"4": "Questioning",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"6": {
+			"q": "6. Which of the following research types focuses on ameliorating the prevailing situations ?",
+			"answers": {
+				"1": "Fundamental Research",
+				"2": "Applied Research",
+				"3": "Action Research",
+				"4": "Experimental Research",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"7": {
+			"q": "7. A researcher attempts to evaluate the effect of method of feeding on anxiety - proneness of  children. Which method of research would be appropriate for this ?",
+			"answers": {
+				"1": "Case study method",
+				"2": "Experimental method",
+				"3": "Ex-post-facto method",
+				"4": "Survey method",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"8": {
+			"q": "8. In which of the following arrangements a wider spectrum of ideas and issues may be made  possible ?",
+			"answers": {
+				"1": "Research Article",
+				"2": "Workshop mode",
+				"3": "Conference",
+				"4": "Symposium",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"9": {
+			"q": "9. In finalizing a thesis writing format which of the following would form part of supplementary  pages ?",
+			"answers": {
+				"1": "List of tables and figures",
+				"2": "Table of contents",
+				"3": "Conclusions of the study",
+				"4": "Bibliography and Appendices",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"10": {
+			"q": "10. Which of the following is susceptible to the issue of research ethics ?",
+			"answers": {
+				"1": "Inaccurate application of statistical techniques",
+				"2": "Faulty research design",
+				"3": "Choice of sampling techniques",
+				"4": "Reporting of research findings",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"11": {
+			"q": "Read the passage carefully and answer question numbers from 11 to 15.  Climate change is considered to be one of the most serious threats to sustainable development,  with adverse impacts on the environment, human health, food security, economic activity, natural  resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental  Panel on Climate Change (IPCC), the effects of climate change have already been  observed, and scientific findings indicate that precautionary and prompt action is necessary.  Vulnerability to climate change is not just a function of geography or dependence on natural  resources; it also has social, economic and political dimensions which influence how climate change  affects different groups. Poor people rarely have insurance to cover loss of property due to natural  calamities i.e. drought, floods, super cyclones etc. The poor communities are already struggling to  cope with the existing challenges of poverty and climate variability and climate change could push  many beyond their ability to cope or even survive. It is vital that these communities are helped to  adapt to the changing dynamics of nature. Adaptation is a process through which societies make  themselves better able to cope with an uncertain future. Adapting to climate change entails taking  the right measures to reduce the negative effects of climate change (or exploit the positive ones) by  making the appropriate adjustments and changes. These range from technological options such  as increased sea defences or flood - proof houses on stilts to behavioural change at the individual  level, such as reducing water use in times of drought. Other strategies include early warning  systems for extreme events, better water management, improved risk management, various  insurance options and biodiversity conservation.      Because of the speed at which climate change is  happening due to global temperature rise, it is urgent that the vulnerability of developing countries  to climate change is reduced and their capacity to adapt is increased and national adaptation  plans are implemented. Adapting to climate change will entail adjustments and changes at every  level from community to national and international. Communities must build their resilience,  including adopting appropriate technologies while making the most of traditional knowledge,  and diversifying their livelihoods to cope with current and future climate stress. Local coping  strategies and knowledge need to be used in synergy with government and local interventions.  The need of adaptation interventions depends on national circumstances. There is a large body of  knowledge and experience within local communities on coping with climatic variability and extreme  weather events. Local communities have always aimed to adapt to variations in their climate. To  do so, they have made preparations based on their resources and their knowledge accumulated  through experience of past weather patterns. This includes times when they have also been forced  to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping  strategies are an important element of planning for adaptation. Climate change is leading  communities to experience climatic extremes more frequently, as well as new climate conditions  and extremes. Traditional knowledge can help to provide efficient, appropriate and time - tested  ways of advising and enabling adaptation to climate change in communities who are feeling the  effects of climate changes due to global warming        Given below are the factors of vulnerability of poor people to climate change. Select the code  that contains the correct answer.  (a) Their dependence on natural resources  (b) Geographical attributes  (c) Lack of financial resources  (d) Lack of traditional knowledge  Code :",
+			"answers": {
+				"1": "(a), (b) and (c)",
+				"2": "(b), (c) and (d)",
+				"3": "(a), (b), (c) and (d)",
+				"4": "(c) only",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"12": {
+			"q": "Read the passage carefully and answer question numbers from 11 to 15.  Climate change is considered to be one of the most serious threats to sustainable development,  with adverse impacts on the environment, human health, food security, economic activity, natural  resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental  Panel on Climate Change (IPCC), the effects of climate change have already been  observed, and scientific findings indicate that precautionary and prompt action is necessary.  Vulnerability to climate change is not just a function of geography or dependence on natural  resources; it also has social, economic and political dimensions which influence how climate change  affects different groups. Poor people rarely have insurance to cover loss of property due to natural  calamities i.e. drought, floods, super cyclones etc. The poor communities are already struggling to  cope with the existing challenges of poverty and climate variability and climate change could push  many beyond their ability to cope or even survive. It is vital that these communities are helped to  adapt to the changing dynamics of nature. Adaptation is a process through which societies make  themselves better able to cope with an uncertain future. Adapting to climate change entails taking  the right measures to reduce the negative effects of climate change (or exploit the positive ones) by  making the appropriate adjustments and changes. These range from technological options such  as increased sea defences or flood - proof houses on stilts to behavioural change at the individual  level, such as reducing water use in times of drought. Other strategies include early warning  systems for extreme events, better water management, improved risk management, various  insurance options and biodiversity conservation.      Because of the speed at which climate change is  happening due to global temperature rise, it is urgent that the vulnerability of developing countries  to climate change is reduced and their capacity to adapt is increased and national adaptation  plans are implemented. Adapting to climate change will entail adjustments and changes at every  level from community to national and international. Communities must build their resilience,  including adopting appropriate technologies while making the most of traditional knowledge,  and diversifying their livelihoods to cope with current and future climate stress. Local coping  strategies and knowledge need to be used in synergy with government and local interventions.  The need of adaptation interventions depends on national circumstances. There is a large body of  knowledge and experience within local communities on coping with climatic variability and extreme  weather events. Local communities have always aimed to adapt to variations in their climate. To  do so, they have made preparations based on their resources and their knowledge accumulated  through experience of past weather patterns. This includes times when they have also been forced  to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping  strategies are an important element of planning for adaptation. Climate change is leading  communities to experience climatic extremes more frequently, as well as new climate conditions  and extremes. Traditional knowledge can help to provide efficient, appropriate and time - tested  ways of advising and enabling adaptation to climate change in communities who are feeling the  effects of climate changes due to global warming     Adaptation as a process enables societies to cope with :  (a) An uncertain future  (b) Adjustments and changes  (c) Negative impact of climate change  (d) Positive impact of climate change  Select the most appropriate answer from the following code :",
+			"answers": {
+				"1": "(a), (b), (c) and (d)",
+				"2": "(a) and (c)",
+				"3": "(b), (c) and (d)",
+				"4": "(c) only",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"13": {
+			"q": "Read the passage carefully and answer question numbers from 11 to 15.  Climate change is considered to be one of the most serious threats to sustainable development,  with adverse impacts on the environment, human health, food security, economic activity, natural  resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental  Panel on Climate Change (IPCC), the effects of climate change have already been  observed, and scientific findings indicate that precautionary and prompt action is necessary.  Vulnerability to climate change is not just a function of geography or dependence on natural  resources; it also has social, economic and political dimensions which influence how climate change  affects different groups. Poor people rarely have insurance to cover loss of property due to natural  calamities i.e. drought, floods, super cyclones etc. The poor communities are already struggling to  cope with the existing challenges of poverty and climate variability and climate change could push  many beyond their ability to cope or even survive. It is vital that these communities are helped to  adapt to the changing dynamics of nature. Adaptation is a process through which societies make  themselves better able to cope with an uncertain future. Adapting to climate change entails taking  the right measures to reduce the negative effects of climate change (or exploit the positive ones) by  making the appropriate adjustments and changes. These range from technological options such  as increased sea defences or flood - proof houses on stilts to behavioural change at the individual  level, such as reducing water use in times of drought. Other strategies include early warning  systems for extreme events, better water management, improved risk management, various  insurance options and biodiversity conservation.      Because of the speed at which climate change is  happening due to global temperature rise, it is urgent that the vulnerability of developing countries  to climate change is reduced and their capacity to adapt is increased and national adaptation  plans are implemented. Adapting to climate change will entail adjustments and changes at every  level from community to national and international. Communities must build their resilience,  including adopting appropriate technologies while making the most of traditional knowledge,  and diversifying their livelihoods to cope with current and future climate stress. Local coping  strategies and knowledge need to be used in synergy with government and local interventions.  The need of adaptation interventions depends on national circumstances. There is a large body of  knowledge and experience within local communities on coping with climatic variability and extreme  weather events. Local communities have always aimed to adapt to variations in their climate. To  do so, they have made preparations based on their resources and their knowledge accumulated  through experience of past weather patterns. This includes times when they have also been forced  to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping  strategies are an important element of planning for adaptation. Climate change is leading  communities to experience climatic extremes more frequently, as well as new climate conditions  and extremes. Traditional knowledge can help to provide efficient, appropriate and time - tested  ways of advising and enabling adaptation to climate change in communities who are feeling the  effects of climate changes due to global warming    To address the challenge of climate change, developing countries urgently require :",
+			"answers": {
+				"1": "Imposition of climate change tax",
+				"2": "Implementation of national adaptation policy at their level",
+				"3": "Adoption of short-term plans",
+				"4": "Adoption of technological solutions",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"14": {
+			"q": "Read the passage carefully and answer question numbers from 11 to 15.  Climate change is considered to be one of the most serious threats to sustainable development,  with adverse impacts on the environment, human health, food security, economic activity, natural  resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental  Panel on Climate Change (IPCC), the effects of climate change have already been  observed, and scientific findings indicate that precautionary and prompt action is necessary.  Vulnerability to climate change is not just a function of geography or dependence on natural  resources; it also has social, economic and political dimensions which influence how climate change  affects different groups. Poor people rarely have insurance to cover loss of property due to natural  calamities i.e. drought, floods, super cyclones etc. The poor communities are already struggling to  cope with the existing challenges of poverty and climate variability and climate change could push  many beyond their ability to cope or even survive. It is vital that these communities are helped to  adapt to the changing dynamics of nature. Adaptation is a process through which societies make  themselves better able to cope with an uncertain future. Adapting to climate change entails taking  the right measures to reduce the negative effects of climate change (or exploit the positive ones) by  making the appropriate adjustments and changes. These range from technological options such  as increased sea defences or flood - proof houses on stilts to behavioural change at the individual  level, such as reducing water use in times of drought. Other strategies include early warning  systems for extreme events, better water management, improved risk management, various  insurance options and biodiversity conservation.      Because of the speed at which climate change is  happening due to global temperature rise, it is urgent that the vulnerability of developing countries  to climate change is reduced and their capacity to adapt is increased and national adaptation  plans are implemented. Adapting to climate change will entail adjustments and changes at every  level from community to national and international. Communities must build their resilience,  including adopting appropriate technologies while making the most of traditional knowledge,  and diversifying their livelihoods to cope with current and future climate stress. Local coping  strategies and knowledge need to be used in synergy with government and local interventions.  The need of adaptation interventions depends on national circumstances. There is a large body of  knowledge and experience within local communities on coping with climatic variability and extreme  weather events. Local communities have always aimed to adapt to variations in their climate. To  do so, they have made preparations based on their resources and their knowledge accumulated  through experience of past weather patterns. This includes times when they have also been forced  to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping  strategies are an important element of planning for adaptation. Climate change is leading  communities to experience climatic extremes more frequently, as well as new climate conditions  and extremes. Traditional knowledge can help to provide efficient, appropriate and time - tested  ways of advising and enabling adaptation to climate change in communities who are feeling the  effects of climate changes due to global warming    The traditional knowledge should be used through :",
+			"answers": {
+				"1": "Its dissemination",
+				"2": "Improvement in national circumstances",
+				"3": "Synergy between government and local interventions",
+				"4": "Modern technology",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"15": {
+			"q": "Read the passage carefully and answer question numbers from 11 to 15.  Climate change is considered to be one of the most serious threats to sustainable development,  with adverse impacts on the environment, human health, food security, economic activity, natural  resources and physical infrastructure. Global climate varies naturally. According to the Intergovernmental  Panel on Climate Change (IPCC), the effects of climate change have already been  observed, and scientific findings indicate that precautionary and prompt action is necessary.  Vulnerability to climate change is not just a function of geography or dependence on natural  resources; it also has social, economic and political dimensions which influence how climate change  affects different groups. Poor people rarely have insurance to cover loss of property due to natural  calamities i.e. drought, floods, super cyclones etc. The poor communities are already struggling to  cope with the existing challenges of poverty and climate variability and climate change could push  many beyond their ability to cope or even survive. It is vital that these communities are helped to  adapt to the changing dynamics of nature. Adaptation is a process through which societies make  themselves better able to cope with an uncertain future. Adapting to climate change entails taking  the right measures to reduce the negative effects of climate change (or exploit the positive ones) by  making the appropriate adjustments and changes. These range from technological options such  as increased sea defences or flood - proof houses on stilts to behavioural change at the individual  level, such as reducing water use in times of drought. Other strategies include early warning  systems for extreme events, better water management, improved risk management, various  insurance options and biodiversity conservation.      Because of the speed at which climate change is  happening due to global temperature rise, it is urgent that the vulnerability of developing countries  to climate change is reduced and their capacity to adapt is increased and national adaptation  plans are implemented. Adapting to climate change will entail adjustments and changes at every  level from community to national and international. Communities must build their resilience,  including adopting appropriate technologies while making the most of traditional knowledge,  and diversifying their livelihoods to cope with current and future climate stress. Local coping  strategies and knowledge need to be used in synergy with government and local interventions.  The need of adaptation interventions depends on national circumstances. There is a large body of  knowledge and experience within local communities on coping with climatic variability and extreme  weather events. Local communities have always aimed to adapt to variations in their climate. To  do so, they have made preparations based on their resources and their knowledge accumulated  through experience of past weather patterns. This includes times when they have also been forced  to react to and recover from extreme events, such as floods, drought and hurricanes. Local coping  strategies are an important element of planning for adaptation. Climate change is leading  communities to experience climatic extremes more frequently, as well as new climate conditions  and extremes. Traditional knowledge can help to provide efficient, appropriate and time - tested  ways of advising and enabling adaptation to climate change in communities who are feeling the  effects of climate changes due to global warming    The main focus of the passage is on :",
+			"answers": {
+				"1": "Combining traditional knowledge with appropriate technology",
+				"2": "Co-ordination between regional and national efforts",
+				"3": "Adaptation to climate change",
+				"4": "Social dimensions of climate change",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"16": {
+			"q": "16. The interaction between a teacher and students creates a zone of proximal :",
+			"answers": {
+				"1": "Difference",
+				"2": "Confusion",
+				"3": "Development",
+				"4": "Distortion",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"17": {
+			"q": "17. The spatial audio reproduction in a classroom can reduce the students’ :",
+			"answers": {
+				"1": "Cognitive load in understanding",
+				"2": "Respect for the teacher",
+				"3": "Motivation for excellence",
+				"4": "Interest in technology - orientation",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"18": {
+			"q": "18. The classroom communication should essentially be :",
+			"answers": {
+				"1": "Contrived",
+				"2": "Empathetic",
+				"3": "Abstract",
+				"4": "Non-descriptive",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"19": {
+			"q": "19. A good communicator begins his/her presentation with a :",
+			"answers": {
+				"1": "Complex question",
+				"2": "Non-sequitur",
+				"3": "Repetitive phrase",
+				"4": "Ice-breaker",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"20": {
+			"q": "20. In a classroom, the probability of message reception can be enhanced by :",
+			"answers": {
+				"1": "Establishing a viewpoint",
+				"2": "Exposing the ignorance of students",
+				"3": "Increasing the information load",
+				"4": "Using high decibel audio tools",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"21": {
+			"q": "21. In the series 1, 6, 15, 28, 45, ............ the next term will be :",
+			"answers": {
+				"1": "66",
+				"2": "76",
+				"3": "56",
+				"4": "84",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"22": {
+			"q": "22. The next term in the series ABD, DGK, HMS, MTB, .......... is :",
+			"answers": {
+				"1": "NSA",
+				"2": "SBL",
+				"3": "PSK",
+				"4": "RUH",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"23": {
+			"q": "23. In certain code, “COVALENT” is coded as BWPDUOFM. The code of “ELEPHANT” will  be :",
+			"answers": {
+				"1": "MFUIQRTW",
+				"2": "QMUBIADH",
+				"3": "QFMFUOBI",
+				"4": "EPHNTEAS",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"24": {
+			"q": "Ajay is a friend of Rakesh.   Pointing to an old man   Ajay asked Rakesh who is he ?   Rakesh said “His son is my son’s uncle”.   The old man is related to Rakesh as :",
+			"answers": {
+				"1": "Grandfather",
+				"2": "Father-in-law",
+				"3": "Father",
+				"4": "Uncle",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"25": {
+			"q": "25. A postman walked 20 m straight from his office, turned right and walked 10 m. After  turning left he walked 10 m and after turning right walked 20 m. He again turned right and  walked 70 m. How far he is from his office ?",
+			"answers": {
+				"1": "50 m.",
+				"2": "40 m.",
+				"3": "60 m.",
+				"4": "20 m.",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"26": {
+			"q": "26. It is Truism to say that no one was there when life first appeared on earth. Any assertion  about life’s origin, thus, should be treated as a theory.  The above two statements constitute :",
+			"answers": {
+				"1": "A historical explanation",
+				"2": "A narrative",
+				"3": "An argument",
+				"4": "A conjecture",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"27": {
+			"q": "27. Given below are four statements. Among them two are related in such a way that they can both  be true but they cannot both be false. Select the code that indicates those two statements :  Statements :  (a) Honest people never suffer.  (b) Almost all honest people do suffer.  (c) Honest people hardly suffer.  (d) Each and every honest person suffers.  Code :",
+			"answers": {
+				"1": "(a) and (b)",
+				"2": "(a) and (c)",
+				"3": "(a) and (d)",
+				"4": "(b) and (c)",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"28": {
+			"q": "28. A deductive argument is invalid if :",
+			"answers": {
+				"1": "Its premises and conclusion are all true.",
+				"2": "Its premises and conclusion are all false.",
+				"3": "Its premises are all false but its conclusion is true.",
+				"4": "Its premises are all true but its conclusion is false.",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"29": {
+			"q": "29. Given below are two premises (a and b). From those two premises four conclusions (i), (ii),  (iii) and (iv) are drawn. Select the code that states the conclusion/conclusions drawn validly  (taking the premises singularly or jointly).  Premises : (a) All bats are mammals.  (b) No birds are bats.  Conclusions : (i) No birds are mammals.  (ii) Some birds are not mammals.  (iii) No bats are birds.  (iv) All mammals are bats.  Code :",
+			"answers": {
+				"1": "(i) only",
+				"2": "(i) and (ii) only",
+				"3": "(iii) only",
+				"4": "(iii) and (iv) only",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"30": {
+			"q": "30. Just as melting ice - cubes do not cause a glass of water to overflow, melting sea - ice does not  increase oceanic volume.  What type of argument is it ?",
+			"answers": {
+				"1": "Analogical",
+				"2": "Hypothetical",
+				"3": "Psychological",
+				"4": "Statistical",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"31": {
+			"q": "The maximum decadal growth in population   of India is registered in the period :",
+			"answers": {
+				"1": "1961 - 1971",
+				"2": "1991 - 2001",
+				"3": "2001 - 2011",
+				"4": "1981 - 1991",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"32": {
+			"q": "In which year the decadal growth (%)   in number of cars surpassed that of the two  wheelers ?",
+			"answers": {
+				"1": "1991",
+				"2": "2001",
+				"3": "1981",
+				"4": "2011",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"33": {
+			"q": "What was the average decadal growth   in the number of cars during 1961 - 2011 ?",
+			"answers": {
+				"1": "~ 131%",
+				"2": "~ 68%",
+				"3": "~ 217%",
+				"4": "~ 157%",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"34": {
+			"q": "In the year 2001, out of total number of   vehicles, the number of passenger   vehicles (4 wheelers) accounted for :",
+			"answers": {
+				"1": "~ 14%",
+				"2": "~ 24%",
+				"3": "~ 31%",
+				"4": "~ 43%",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"35": {
+			"q": "What was the per capita ownership of   two wheelers in India in the year 2011 ?",
+			"answers": {
+				"1": "~ 0.084%",
+				"2": "~ 0.0084%",
+				"3": "~ 0.84%",
+				"4": "~ 0.068%",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"36": {
+			"q": "36. What is the name for a webpage address ?",
+			"answers": {
+				"1": "Domain",
+				"2": "Directory",
+				"3": "Protocol",
+				"4": "URL",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"37": {
+			"q": "37. The data storage hierarchy consists of :",
+			"answers": {
+				"1": "Bytes, bits, fields, records, files and databases",
+				"2": "Bits, bytes, fields, records, files and databases",
+				"3": "Bits, bytes, records, fields, files and databases",
+				"4": "Bits, bytes, fields, files, records and databases",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"38": {
+			"q": "38. Which of the following domains is used for - profit businesses ?",
+			"answers": {
+				"1": ".org",
+				"2": ".net",
+				"3": ".edu",
+				"4": ".com",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"39": {
+			"q": "39. What is the full form of USB as used in computer related activities ?",
+			"answers": {
+				"1": "Ultra Security Block",
+				"2": "Universal Security Block",
+				"3": "Universal Serial Bus",
+				"4": "United Serial Bus",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"40": {
+			"q": "40. Which of the following represents billion characters ?",
+			"answers": {
+				"1": "Terabytes",
+				"2": "Megabytes",
+				"3": "Kilobytes",
+				"4": "Gigabytes",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"41": {
+			"q": "41. Which of the following pollutants is the major cause of respiratory diseases ?",
+			"answers": {
+				"1": "Suspended fine particles",
+				"2": "Nitrogen oxides",
+				"3": "Carbon monoxide",
+				"4": "Volatile organic compounds",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"42": {
+			"q": "42. Assertion (A) : In urban areas, smog episodes occur frequently in winters.  Reason (R) : In winters, a lot of biomass is burnt by people for heating purposes or to  keep themselves warm.  Choose the correct answer from the code given below :",
+			"answers": {
+				"1": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+				"2": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+				"3": "(A) is true and (R) is false",
+				"4": "Both (A) and (R) are false",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"43": {
+			"q": "43. Occurrence of natural hazards is affected by :   (a) Land use changes (b) Drainage and construction  (c) Ozone depletion (d) Climate change  Choose the correct answer from the code given below :",
+			"answers": {
+				"1": "(a), (c) and (d)",
+				"2": "(a), (b) and (c)",
+				"3": "(a), (b) and (d)",
+				"4": "(b), (c) and (d)",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"44": {
+			"q": "44. Which of the following pollutant gases is not produced both naturally and as a result of  industrial activity ?",
+			"answers": {
+				"1": "Chlorofluoro carbons",
+				"2": "Nitrous oxide",
+				"3": "Methane",
+				"4": "Carbon dioxide",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"45": {
+			"q": "45. Among the following fuels of energy, which is the most environment friendly ?",
+			"answers": {
+				"1": "Ethanol",
+				"2": "Biogas",
+				"3": "CNG",
+				"4": "Hydrogen",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"46": {
+			"q": "46. Which of the following are the goals of higher education in India ?  (a) Access  (b) Equity  (c) Quality and Excellence  (d) Relevance  (e) Value based education  (f) Compulsory and free education  Select the correct answer from the code given below :",
+			"answers": {
+				"1": "(a), (b) and (e) only",
+				"2": "(a), (b), (e) and (f)",
+				"3": "(a), (b), (c), (d) and (e)",
+				"4": "(a), (b), (c), (d), (e) and (f)",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"47": {
+			"q": "47. Which of the following has been ranked the best college in the country (2017) as per the  National Institutional Ranking Framework (NIRF) ?",
+			"answers": {
+				"1": "Miranda House, Delhi",
+				"2": "St. Stephen’s College, Delhi",
+				"3": "Fergusson College, Pune",
+				"4": "Maharaja’s College, Mysore",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"48": {
+			"q": "48. Which of the following universities has received the Visitor’s Award for the best Central  University in India in Feb. 2017 ?",
+			"answers": {
+				"1": "Jawaharlal Nehru University",
+				"2": "Banaras Hindu University",
+				"3": "Tezpur University",
+				"4": "University of Hyderabad",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"49": {
+			"q": "49. Who among the following can be removed by the President without Parliament’s  resolution ?",
+			"answers": {
+				"1": "Judge of a High Court",
+				"2": "Governor of a State",
+				"3": "Chief Election Commissioner",
+				"4": "Comptroller and Auditor - Genera",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"50": {
+			"q": "50. Which of the following come(s) within the ambit of the term ‘corruption’ ?  (a) Misuse of official position  (b) Deviation from rules, laws and norms  (c) Non-action when action is required  (d) Harm to public good  Select the correct answer from the code given below :",
+			"answers": {
+				"1": "(a) only",
+				"2": "(a) and (b) only",
+				"3": "(a), (b) and (d)",
+				"4": "(a), (b), (c) and (d)",
+				"correct": 4
+			}
+		}
+	}
+]

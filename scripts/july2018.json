@@ -1,0 +1,602 @@
+[
+	{
+		"1": {
+			"q": "Read the following passage carefully and answer questions from 1 to 5:    If India has to develop her internal strengths, the nation has to focus on the technological imperatives,  keeping inmind three dynamic dimensions : The people, the overall economy and the strategic interests.  These technological imperatives also take into account a 'fourth' dimension, time, an offshoot of modern day dynamism  in business trade, and technology that leads to continually shifting targets. We believe theat technological strengths  are especially crucial in dealing with this fourth dimension underlying continuous change in the aspirations of the people,   the economy in the global context, and the strategic interests. The progress of technology lies at the heart of human history.  Technological strengths are the key to creating  more productive employment in an increasingly competitive market place and   to conintually upgrade human skills. Without a pervasive use of technologies we cannot acheive overall development of our people in the years to come.   The direct linkages of technology to the nations strategic strenghts are becoming more and more clear, especially since 1990's. India's own strength   in a number of core areas still puts it in a position of reasonable strength in geo-political context. Any nation aspiring to become a developed one  needs to have strengths in various strategic technologies and also the ability to continually upgrade them through its own creative strengths.  For people- oriented actions as well, whether for the creation of large scale productive employment or for ensuring nutritional and health security  for people, or for better living conditions, technology is the only vital input. The absence of greater technological impetus could lead to   lower productivity and wastage of precious natural resources. The technolgoical imperatives to lift our people to a new life, and to a life they are  entitled to is important. India, aspiring to become a major economic power interms of trade and increase in GDP, cannot succeed on the strength of turnkey projects designed and built abroad or only through large scale imports of plant machinery, equipments and know how. Even while being alive to the short-term realities,  medium and long term strategies to develop core technological strengths within our industry are vital for envisioning a developed India.    1. The advantage of technological inputs would result in:",
+			"answers": {
+				"1": "Lifting our people to a life of dignity.",
+				"2": "Unbridled technological growth.",
+				"3": "Importing plant machinery",
+				"4": "Sidelining environmental issues",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"2": {
+			"q": "2. More Productive employment demands :",
+			"answers": {
+				"1": "Large Industries",
+				"2": "Pervasive use of technology",
+				"3": "Limiting competitive market place",
+				"4": "Geo-Political considerations",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"3": {
+			"q": "3. Absence of technology would lead to:   (a) less pollution  (b) Wastage of precious natural resources  (c) Low value addition  (d) Hurting the poorest most    Code:",
+			"answers": {
+				"1": "a , c, d only",
+				"2": "a, b, c only",
+				"3": "b, c, d only",
+				"4": "a, b, d only",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"4": {
+			"q": "4. Envisioning a developed India requires:",
+			"answers": {
+				"1": "Development of core technological strengths.",
+				"2": "Aspiration to become a major economic player.",
+				"3": "Dependence upon projects designed abroad.",
+				"4": "Focus on short term projects.",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"5": {
+			"q": "5. According to the above passage, which of the following are indicative of the fourth dimension ?  (a) aspiration of people  (b) modern day dynamism  (c) economy in the global context  (d)Strategic interests    Code :",
+			"answers": {
+				"1": "a b d only",
+				"2": "a b c only",
+				"3": "b c d only",
+				"4": "a c d only",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"6": {
+			"q": "6. Given below are two premises ( A and B). Four conclusions are drawn from them. Select the code that states validly  drawn conslusion(s) ( taking the premises individually or jointly)    Premises:  (A) Most of the dancers are physically fit  (B) Most of the singers are dancers.   Conclusions:  (a) Most of the singers are physically fit  (b) Most of the dancers are singers.  (c) Most of the physically fit persons are dancers.  (d) Most of the physically fit persons are singers.   Code:",
+			"answers": {
+				"1": "d and a",
+				"2": "a and b",
+				"3": "b and c",
+				"4": "c and d",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"7": {
+			"q": "7. if VARANASI is coded as WCUESGZQ, Then code of KOLKATA will be:",
+			"answers": {
+				"1": "LQOOFZH",
+				"2": "LOQOZEH",
+				"3": "HLZEOOQ",
+				"4": "ZELHOQO",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"8": {
+			"q": "8.Introducing Rakesh to her husband a women said, 'His brothers father is the only son of my grandfather. The woman is related to Rakesh as:",
+			"answers": {
+				"1": "Daughter",
+				"2": "Aunt",
+				"3": "Mother",
+				"4": "Sister",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"9": {
+			"q": "9. Assertion (A) :To communicate well in the classroom is a natural ability  Reason(R) : Effective teaching in  the classroom demands knowledge of the communication process.    Code:",
+			"answers": {
+				"1": "(A) is false but (R) is true",
+				"2": "Both (A) and (R) are true and (R) is the correct explanation of A",
+				"3": "Both (A and (R) are true but (R) is not the correct explanation of A",
+				"4": "(A) is true but (R) is false",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"10": {
+			"q": "10. Which one among the following is a presupposition in inductive reasoning?",
+			"answers": {
+				"1": "Uniformity of nature",
+				"2": "Law of identity",
+				"3": "Unchangability in nature",
+				"4": "Harmony in nature",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"11": {
+			"q": "11. Superiority of intellect depends upon its power of concentration on one theme on the same way as a concave mirror collects all the rays that strike  upon it into one point.  What type of reasoning is entailed in the above statement?",
+			"answers": {
+				"1": "Deductive",
+				"2": "Mathematical",
+				"3": "Psychological",
+				"4": "Analogical",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"12": {
+			"q": "12. Two numbers are in the ratio 2:5. If 16 is added to both the numbers their ration becomes 1: 2 The number are:",
+			"answers": {
+				"1": "32, 80",
+				"2": "16,40",
+				"3": "20,50",
+				"4": "28,70",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"13": {
+			"q": "13. Differentiation between acceptance and non-acceptance in certain stimuli in classroom communication is the basis of:",
+			"answers": {
+				"1": "Selective morality",
+				"2": "Selective expectation of performance",
+				"3": "Selective affiliation to peer groups",
+				"4": "Selective attention",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"14": {
+			"q": "14. The next term in the series:  ABD, DGK, HMS, MTB, SBL, --------------",
+			"answers": {
+				"1": "KZU",
+				"2": "ZKU",
+				"3": "ZCA",
+				"4": "ZKW",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"15": {
+			"q": "15. Which one of the following statements is not correct in the context of venn diagram method ?",
+			"answers": {
+				"1": "It can be used to represent classes as well as propostitions",
+				"2": "It is a method of testing the validity of arguments",
+				"3": "It represents both the premises of a syllogism in one diagram",
+				"4": "It requires two overlapping circles for the two premises of a standard-form categorical syllogism.",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"16": {
+			"q": "16. Assertion (A) : Classroom communication is a transactional process.  Reason (R) : A teacher doesnot operate under the assumption that students' responses are purposive    Select the correct code for your answer :",
+			"answers": {
+				"1": "(A) is false but (R) is true",
+				"2": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+				"3": "Both (A) of (R) are true, but (R) is not the correct explanation of (A)",
+				"4": "(A) is true, but (R) is false.",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"17": {
+			"q": "17. If the proposition 'domestic animals are hardly ferocious' is taken to be false, which of the following propostion/propositions  can be claimed to be certainly true ? Select the correct code:    Propositions :  (a) All domestic animals are ferocious  (b) Most of the domestic animals are ferocious  (c) No domestic animal is ferocious  (d) some domestic animals are non-ferocious",
+			"answers": {
+				"1": "b",
+				"2": "a and  b",
+				"3": "a",
+				"4": "c and d",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"18": {
+			"q": "18.  The next term in the series:    -1, 5, 15, 29, -----------------",
+			"answers": {
+				"1": "63",
+				"2": "36",
+				"3": "47",
+				"4": "59",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"19": {
+			"q": "19. Which of the following set of statements is correct for describing the human communication process ?    (a) Non-verbal communication can stimualte ideas  (b) Communication is a learnt ability  (c) Communication is not a universal panacea  (d) Communication cannot break down  (e) More communication means more effective learning by students  (f) Value of what is learnt through classroom communication is not an issue for students.   Code :",
+			"answers": {
+				"1": "a, d, e, f",
+				"2": "a, c, e, f",
+				"3": "b, d, e, f",
+				"4": "a, b, c, d",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"20": {
+			"q": "20. Assertion (A) : The initial messages to students in the classroom by a teacher need not be critical to establish interactions later.    Reason (R) : More control over the communication process means more control over what the students are learning    Code:",
+			"answers": {
+				"1": "(A) is false but (R) is true",
+				"2": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+				"3": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+				"4": "(A) is true but (R) is false",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"21": {
+			"q": "The table below embodies data on the production, exports and per capita consumption of rice in country P for the fiver years from   2012 to 2016. Answer questions 21-25 based on the data contained in the table:      Where per capita Consumption  = (Consumption in million kg) % (Population in million) and consumption (in million kg) = Production - exports          Year-wise production, Exports and Per Capita consumption of rice   Year Production ( in million kg) Exports  (in million kg) Per capita consumption ( in kg)   2012  186.5 114 36.25   2013  202 114 35.2   2014  238 130 38.7   2015  221 116 40.5   2016  215 88 42      21. What is the population of the country in the year 2014 ( in million)?",
+			"answers": {
+				"1": "2.85",
+				"2": "2.64",
+				"3": "2.72",
+				"4": "2.79",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"22": {
+			"q": "The table below embodies data on the production, exports and per capita consumption of rice in country P for the fiver years from   2012 to 2016. Answer questions 21-25 based on the data contained in the table:      Where per capita Consumption  = (Consumption in million kg) % (Population in million) and consumption (in million kg) = Production - exports          Year-wise production, Exports and Per Capita consumption of rice   Year Production ( in million kg) Exports  (in million kg) Per capita consumption ( in kg)   2012  186.5 114 36.25   2013  202 114 35.2   2014  238 130 38.7   2015  221 116 40.5   2016  215 88 42    22. What is the average consumption of rice (in  million kg) over the years 2012-2016?",
+			"answers": {
+				"1": "100.1",
+				"2": "104",
+				"3": "102.1",
+				"4": "108",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"23": {
+			"q": "The table below embodies data on the production, exports and per capita consumption of rice in country P for the fiver years from   2012 to 2016. Answer questions 21-25 based on the data contained in the table:      Where per capita Consumption  = (Consumption in million kg) % (Population in million) and consumption (in million kg) = Production - exports          Year-wise production, Exports and Per Capita consumption of rice   Year Production ( in million kg) Exports  (in million kg) Per capita consumption ( in kg)   2012  186.5 114 36.25   2013  202 114 35.2   2014  238 130 38.7   2015  221 116 40.5   2016  215 88 42    23. In which year, the population of country was the highest?",
+			"answers": {
+				"1": "2016",
+				"2": "2013",
+				"3": "2014",
+				"4": "2015",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"24": {
+			"q": "The table below embodies data on the production, exports and per capita consumption of rice in country P for the fiver years from   2012 to 2016. Answer questions 21-25 based on the data contained in the table:      Where per capita Consumption  = (Consumption in million kg) % (Population in million) and consumption (in million kg) = Production - exports          Year-wise production, Exports and Per Capita consumption of rice   Year Production ( in million kg) Exports  (in million kg) Per capita consumption ( in kg)   2012  186.5 114 36.25   2013  202 114 35.2   2014  238 130 38.7   2015  221 116 40.5   2016  215 88 42    24. The percentage increase in the consumption of rice over previous year was the highest in which year?",
+			"answers": {
+				"1": "2016",
+				"2": "2013",
+				"3": "2014",
+				"4": "2015",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"25": {
+			"q": "The table below embodies data on the production, exports and per capita consumption of rice in country P for the fiver years from   2012 to 2016. Answer questions 21-25 based on the data contained in the table:      Where per capita Consumption  = (Consumption in million kg) % (Population in million) and consumption (in million kg) = Production - exports          Year-wise production, Exports and Per Capita consumption of rice   Year Production ( in million kg) Exports  (in million kg) Per capita consumption ( in kg)   2012  186.5 114 36.25   2013  202 114 35.2   2014  238 130 38.7   2015  221 116 40.5   2016  215 88 42    25. The ratio of exports to consumption in the given period was the highest in the year :",
+			"answers": {
+				"1": "2015",
+				"2": "2012",
+				"3": "2013",
+				"4": "2014",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"26": {
+			"q": "26. Put the following units of storage into the correct order, starting with the smallest unit first and going down to the largest unit",
+			"answers": {
+				"1": "bit, Byte, Kilobyte, Terabyte, Megabyte, Gigabyte",
+				"2": "Bit, Byte, Kilobyte, Megabyte, Terabyte, Gigabyte",
+				"3": "Bit, Byte, Kilobyte, Terabyte, Gigabyte, Megabyte",
+				"4": "Bit,Byte, Kilobyte, Megabyte, GigaByte, TeraByte",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"27": {
+			"q": "27. Assertion (A): Indoor air pollution is serious hazard. Reason (R): The dispersal of air pollutants is rather limited in indoor environment. Choose the correct answer from the code given below:",
+			"answers": {
+				"1": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+				"2": "Both (A) and (R) are true and (R) is not the correct explanation of (A)",
+				"3": "(A) is true and (R) is false",
+				"4": "Both (A) and (R) are false",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"28": {
+			"q": "28. India has the largest Higher Education System in the World after:    (a)The United States of America   (b)Australia   (c)China   (d)United Kingdom (UK)      Select the correct answer from the code given below:",
+			"answers": {
+				"1": "a and c",
+				"2": "a, b, c, d",
+				"3": "a, b, c",
+				"4": "a, c, d",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"29": {
+			"q": "29. Which of the following is considered as major source of pollution in rivers of India?",
+			"answers": {
+				"1": "Thermal power plants",
+				"2": "unregualted small scale industry",
+				"3": "untreated sewage",
+				"4": "agricultural run-off",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"30": {
+			"q": "30. Given the following email fields, which of the email addresses will `swami' be able to see when he receives the message?       To... ram@test.com   Cc...  raj@test.com, ravi@test.com   Bcc...  swami@test.com; rama@test.com",
+			"answers": {
+				"1": "ram@test.com, rama@test.com, raj@test.com, ravi@test.com",
+				"2": "ram@test.com",
+				"3": "ram@test.com, raj@test.com, ravi@test.com",
+				"4": "ram@test.com, rama@test.com",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"31": {
+			"q": "31.Which of the following statements are correct about gender budgeting?    (a)It is separates budget addressing the specific needs of women.   (b)It assesses the impact of government budget on women.   (c)It is an accounting exercise.   (d)It is another budgeting innovation.      Select the correct answer from the code given below:",
+			"answers": {
+				"1": "b, c, d",
+				"2": "b, d",
+				"3": "a, d",
+				"4": "a, c, d",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"32": {
+			"q": "32.Prime Minister Research Fellowship is for students pursuing Ph.D programme in:",
+			"answers": {
+				"1": "IIT AND IISC",
+				"2": "State and central universities",
+				"3": "central universitites, IISC, IIT, NIT, IIIT AND IISER",
+				"4": "IISC, IIT, NIT, IISER, IIIT, state and central universities",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"33": {
+			"q": "33. Which of the following are the barriers to citizen-centric administration in India?    (a)Wooden and inflexible attitude of the civil servants   (b)Ineffective implementation of laws and rules   (c)Awareness of rights and duties of citizens   (d)Lack of job opportunities for the youth.",
+			"answers": {
+				"1": "a, b",
+				"2": "a, b, c, d",
+				"3": "a, b, c",
+				"4": "a, b, d",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"34": {
+			"q": "34.Leader of the opposition is a member of committees which select:    (a)the central information Commissioner   (b)the Central Vigilance Commissioner   (c)the Chairperson of National Human Rights Commission   (d)the Chairperson of National Commission for women",
+			"answers": {
+				"1": "a, b, d",
+				"2": "a, b, c, d",
+				"3": "a, b, c",
+				"4": "a, c, d",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"35": {
+			"q": "35. A new Laptop has been produced that weighs less, is smaller and uses less power previous Laptop models. Which of the following technologies has been used to accomplish this?",
+			"answers": {
+				"1": "Solid state hard drive",
+				"2": "Universal series bus mouse",
+				"3": "Faster RAM",
+				"4": "Blu-raydrive",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"36": {
+			"q": "36. In terms of their contribution to the total power generation in India, Identify the correct sequence of energy sources- Thermal Power Plants (TPP), Large Hydropower Projects (LHP), Nuclear Energy (NE) and Renewable Energy (RE) which includes solar energy, wind energy, biomass and small hydropower projects.",
+			"answers": {
+				"1": "LHP > TPP> NE>RE",
+				"2": "TPP>RE>LHP>NE",
+				"3": "TPP>LHP>RE>NE",
+				"4": "LHP>TPP>RE>NE",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"37": {
+			"q": "37.Which of the following types of natural disasters has no definite beginning and end?",
+			"answers": {
+				"1": "droughts",
+				"2": "Earthquakes",
+				"3": "Landslides",
+				"4": "Hurricanes",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"38": {
+			"q": "38. Which of the following statements, regarding the term ICT is/are TRUE?   P: ICT is an acronym that stands for Indian Classical Technology.   Q: Converging technologies that exemplify ICT include the merging of audio-visual, telephone and computer networks through a common cabling system.",
+			"answers": {
+				"1": "Neither P nor Q",
+				"2": "P only",
+				"3": "Q only",
+				"4": "P and Q",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"39": {
+			"q": "39. With regard to computer memory, which of the following statement (s) is/are TRUE?      P: ROM is a volatile memory   Q : RAM is a volatile memory   R: Secondary memory is a volatile memory",
+			"answers": {
+				"1": "P and R",
+				"2": "P only",
+				"3": "Q only",
+				"4": "P & Q only",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"40": {
+			"q": "40. 'Fly ash' produced in thermal power plants is an ecofriendly resource for use in:    (a)agriculture as micro-nutrient   (b)wasteland development   (c)dam and water holding structures   (d)brick industry     Choose the correct answer from the code given below:",
+			"answers": {
+				"1": "a b c d",
+				"2": "a b d",
+				"3": "b c d",
+				"4": "a c d",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"41": {
+			"q": "41. Which of the sets of activities best indicate the cyclic nature of action research strategy?",
+			"answers": {
+				"1": "Plan, Act, Observe, Reflect",
+				"2": "Reflect, Observe, Plan, ACT",
+				"3": "Observe, Act, Reflect, Plan",
+				"4": "Act, Plan, Observe, Reflect",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"42": {
+			"q": "42. From the list of evaluation procedures given below identify those which will be called `formative evaluation'. Indicate your answer by choosing from the code:    (a)A teacher awards grades to students after having transacted the course work.   (b)During interaction with students in the classroom, the teacher provides corrective feedback.   (c)The teacher gives marks to students on a unit test.   (d)The teacher clarifies to doubts of students in the class itself.   (e)The overall performance of a student's us reported to parents at every three months interval.   (f)The learner's motivation is raised by the teacher through a question-answer session.",
+			"answers": {
+				"1": "b d f",
+				"2": "a b c",
+				"3": "b c d",
+				"4": "a c e",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"43": {
+			"q": "43. In the two sets given below Set-I indicates methods of teaching while Set-II provides the basic requirements for success/effectiveness. Match the two sets and indicate your answer by choosing from the code:       Set- I Set - II   (method of teaching) (Basic requirements for success/effectiveness)    (a) Lecturing  (i)Small step presentation with feedback provided    (b) Discussion in groups  (ii) Production of large number of ideas    (c) Brainstorming  (iii) Content delivery in a lucid language    (d) Programmed instructional procedure  (iv) Theme based interaction among participants",
+			"answers": {
+				"1": "iv, ii, i, iii",
+				"2": "i, ii, iii, iv",
+				"3": "ii, iii, iv, v",
+				"4": "iii, v, ii, i",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"44": {
+			"q": "44. Which of the following sequence of research steps is nearer to scientific method?",
+			"answers": {
+				"1": "Identifying the causal factors, Defining the problem, Developing a hypothesis, Selecting a sample, Collecting data and arriving at generalization and Conclusions.",
+				"2": "Suggested solution of the problem, Deducing the consequences of the solution, Perceiving the problem situation, Location of the difficulty and testing the solutions.",
+				"3": "Perceiving the problem situation, Locating the actual problem and its definition, Hypothesizing, Deducing the consequences of the suggested solution and Testing the hypothesis in action.",
+				"4": "Defining a problem, Identifying the causes of the problem, Defining a population, Drawing a sample, Collecting data and Analysing results.",
+				"correct": 3
+			}
+		}
+	},
+	{
+		"45": {
+			"q": "45. Which of the following set of statements best describes the nature and objectives of teaching?    (a)Teaching and learning are integrally related.   (b)There is no difference between teaching and training.   (c)Concern of all teaching is to ensure some kind of transformation in students.   (d)All good teaching is formal in nature.   (e)A teacher is a senior person.   (f)Teaching is a social act whereas learning is a personal act.",
+			"answers": {
+				"1": "d e f",
+				"2": "a b d",
+				"3": "b c e",
+				"4": "a c f",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"46": {
+			"q": "46. The problem of 'research ethics' is concerned with which aspect of research activities?",
+			"answers": {
+				"1": "Evidence based research reporting",
+				"2": "Following the prescribed format of a thesis",
+				"3": "Data analysis through qualitative or quantitative technique",
+				"4": "Defining the population of research",
+				"correct": 1
+			}
+		}
+	},
+	{
+		"47": {
+			"q": "47. There are two sets given below. Set- I specifies the types of research, while Set-II indicates their characteristics. Match the two and given your answer by selecting the appropriate code.       Set- I Set - II   (Research types) (Characteristics)    (a) Fundamental research  (i) Finding out the extent of perceived impact of an intervention    (b) Applied research  (ii)  Developing an effective explanation through theory building    (c) Action research  (iii) Improving an existing situation through use of interventions    (d) Evaluative research  (iv) Enriching technological resources",
+			"answers": {
+				"1": "ii, iii, iv, v",
+				"2": "ii, iv, iii, i",
+				"3": "v, iv, iii, ii",
+				"4": "i, ii, iii, iv",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"48": {
+			"q": "48. In which of the following activities, potential for nurturing creative and critical thinking is relatively greater?",
+			"answers": {
+				"1": "Participation in a workshop",
+				"2": "Preparing research summary",
+				"3": "Presenting a seminar paper",
+				"4": "Participation in a research conference",
+				"correct": 4
+			}
+		}
+	},
+	{
+		"49": {
+			"q": "49. Which of the following learner characteristics is highly related to effectiveness of teaching?",
+			"answers": {
+				"1": "Family size from which the learner comes",
+				"2": "Prior experience of the learner",
+				"3": "Educational status of the parents of the learner",
+				"4": "Peer groups of the learner",
+				"correct": 2
+			}
+		}
+	},
+	{
+		"50": {
+			"q": "50. Assertion (A): All teaching should aim at ensuring learning. Reason (R): All learning results from teaching. Choose the correct answer from the following code:",
+			"answers": {
+				"1": "(A) is false, but (R) is true",
+				"2": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+				"3": "Both (A) and (R) are true, and (R) is NOT the correct explanation of (A)",
+				"4": "(A) is true, but (R) is false",
+				"correct": 4
+			}
+		}
+	}
+]
